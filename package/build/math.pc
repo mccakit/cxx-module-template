@@ -1,8 +1,0 @@
-prefix=/home/mccakit/desktop/cxx20modules_packaging/package/install
-libdir=${prefix}/lib
-
-Name: math
-Version: 1.0
-Description: Lmao
-Libs: -L${libdir} -lmath
-Cflags: -fprebuilt-module-path=${libdir}/cxx/bmi

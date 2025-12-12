@@ -1,8 +1,0 @@
-/home/mccakit/desktop/cxx20modules_packaging/package/build/CMakeFiles/math.dir
-/home/mccakit/desktop/cxx20modules_packaging/package/build/CMakeFiles/edit_cache.dir
-/home/mccakit/desktop/cxx20modules_packaging/package/build/CMakeFiles/rebuild_cache.dir
-/home/mccakit/desktop/cxx20modules_packaging/package/build/CMakeFiles/list_install_components.dir
-/home/mccakit/desktop/cxx20modules_packaging/package/build/CMakeFiles/install.dir
-/home/mccakit/desktop/cxx20modules_packaging/package/build/CMakeFiles/install/local.dir
-/home/mccakit/desktop/cxx20modules_packaging/package/build/CMakeFiles/install/strip.dir
-/home/mccakit/desktop/cxx20modules_packaging/package/build/CMakeFiles/__CMAKE__CXX26@synth_4c2cd351636a.dir
