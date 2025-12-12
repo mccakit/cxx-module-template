@@ -1,0 +1,21 @@
+{
+  "revision": 0,
+  "rules": [
+    {
+      "primary-output": "CMakeFiles/math.dir/math.cppm.o",
+      "provides": [
+        {
+          "is-interface": true,
+          "logical-name": "math",
+          "source-path": "/home/mccakit/desktop/cxx20modules_packaging/package/math.cppm"
+        }
+      ],
+      "requires": [
+        {
+          "logical-name": "std"
+        }
+      ]
+    }
+  ],
+  "version": 1
+}

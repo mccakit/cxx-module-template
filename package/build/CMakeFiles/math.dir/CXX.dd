@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/math.dir/math.cppm.o | CMakeFiles/math.dir/math.pcm: dyndep | CMakeFiles/__CMAKE__CXX26@synth_4c2cd351636a.dir/70b2301d7307.bmi
+  restat = 1
+

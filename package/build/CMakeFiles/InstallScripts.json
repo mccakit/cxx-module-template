@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/mccakit/desktop/cxx20modules_packaging/package/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,4 @@
+/home/mccakit/desktop/cxx20modules_packaging/consumer/build/CMakeFiles/main.dir
+/home/mccakit/desktop/cxx20modules_packaging/consumer/build/CMakeFiles/edit_cache.dir
+/home/mccakit/desktop/cxx20modules_packaging/consumer/build/CMakeFiles/rebuild_cache.dir
+/home/mccakit/desktop/cxx20modules_packaging/consumer/build/CMakeFiles/__CMAKE__CXX26@synth_5f8fc004a401.dir

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mccakit/desktop/cxx20modules_packaging/consumer/build",
+  "command": "/home/mccakit/dev/llvm/bin/clang++ -std=c++26 -nostdinc++ -nostdlib++ -isystem /home/mccakit/dev/libcxx/native/include/c++/v1 -O3 -DNDEBUG -fPIE -fprebuilt-module-path=/home/mccakit/desktop/cxx20modules_packaging/package/install/lib/cxx/bmi @CMakeFiles/main.dir/main.cpp.o.modmap -o CMakeFiles/main.dir/main.cpp.o -c /home/mccakit/desktop/cxx20modules_packaging/consumer/main.cpp",
+  "file": "/home/mccakit/desktop/cxx20modules_packaging/consumer/main.cpp",
+  "output": "/home/mccakit/desktop/cxx20modules_packaging/consumer/build/CMakeFiles/main.dir/main.cpp.o"
+}
+]
