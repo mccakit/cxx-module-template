@@ -4,3 +4,8 @@ set_target_properties(math::math PROPERTIES
   IMPORTED_LOCATION "@CMAKE_INSTALL_PREFIX@/lib/libmath.a"
   INTERFACE_COMPILE_OPTIONS "-fprebuilt-module-path=@CMAKE_INSTALL_PREFIX@/lib/cxx/bmi"
 )
+add_library(math::math2 STATIC IMPORTED)
+set_target_properties(math::math2 PROPERTIES
+  IMPORTED_LOCATION "@CMAKE_INSTALL_PREFIX@/lib/libmath2.a"
+  INTERFACE_COMPILE_OPTIONS "-fprebuilt-module-path=@CMAKE_INSTALL_PREFIX@/lib/cxx/bmi"
+)

@@ -4,5 +4,5 @@ libdir=${prefix}/lib
 Name: math
 Version: @PROJECT_VERSION@
 Description: @PROJECT_DESCRIPTION@
-Libs: -L${libdir} -lmath
+Libs: -L${libdir} -lmath -lmath2
 Cflags: -fprebuilt-module-path=${libdir}/cxx/bmi
