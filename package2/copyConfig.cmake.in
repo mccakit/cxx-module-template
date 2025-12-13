@@ -1,0 +1,6 @@
+@PACKAGE_INIT@
+add_library(copy::copy STATIC IMPORTED)
+set_target_properties(copy::copy PROPERTIES
+  IMPORTED_LOCATION "@CMAKE_INSTALL_PREFIX@/lib/libcopy.a"
+  INTERFACE_COMPILE_OPTIONS "-fprebuilt-module-path=@CMAKE_INSTALL_PREFIX@/lib/cxx/bmi"
+)
